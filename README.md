@@ -59,7 +59,7 @@ Buat file dengan nama about.php
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
-<a href="https://github.com/alifamarta/Lab9Web/tree/main/src/tugas">`Tugas Lab9Web`</a>
+<a href="https://github.com/ChaerulHidayat17/Lab9Web/tree/main/src/tugas">`Tugas Lab9Web`</a>
 
 ### Config folder
 
