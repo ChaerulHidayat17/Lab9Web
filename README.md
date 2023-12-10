@@ -1,6 +1,14 @@
 <h1 align="center">Praktikum 9: PHP Modular </h1>
 
-## Praktikum
+===========================================================================<br>
+
+<p align="center">
+ &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b>&#128640 <br> 
+  &#128640<b>NIM           :  312210300</b>&#128640 <br>
+ &#128640<b>Mata Kuliah   :  Pemrograman Web</b>&#128640 <br>
+</p>
+===========================================================================<br><br>
+
 
 Buat file dengan nama header.php
 
@@ -353,8 +361,15 @@ ubah.php
     <?php include('layout/ubah.php'); ?>
 
 hasil:
-![Web capture_1-12-2023_232934_localhost](https://github.com/alifamarta/Lab9Web/assets/115516820/49d3e581-ab85-4639-a0a5-5fbeee39d55a)
+![Web capture_1-12-2023_232934_localhost](https://github.com/ChaerulHidayat17/Lab9Web/assets/115516820/49d3e581-ab85-4639-a0a5-5fbeee39d55a)
 
-![Web capture_1-12-2023_23307_localhost](https://github.com/alifamarta/Lab9Web/assets/115516820/d4929584-61fe-49f9-9c00-5e1f10567d91)
+![Web capture_1-12-2023_23307_localhost](https://github.com/ChaerulHidayat17/Lab9Web/assets/115516820/d4929584-61fe-49f9-9c00-5e1f10567d91)
 
-![Web capture_1-12-2023_233035_localhost](https://github.com/alifamarta/Lab9Web/assets/115516820/9b5d0e3f-1df1-4f9a-a91d-ea826069eb97)
+![Web capture_1-12-2023_233035_localhost](https://github.com/ChaerulHidayat17/Lab9Web/assets/115516820/9b5d0e3f-1df1-4f9a-a91d-ea826069eb97)
+
+===========================================================================<br>
+
+<p align="center">
+ &#128640 <b> Terima Kasih </b>&#128640 <br>
+</p>
+===========================================================================<br><br>
