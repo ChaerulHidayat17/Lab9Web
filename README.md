@@ -9,7 +9,6 @@
 </p>
 ===========================================================================<br><br>
 
-
 Buat file dengan nama header.php
 
     <!DOCTYPE html>
@@ -361,11 +360,11 @@ ubah.php
     <?php include('layout/ubah.php'); ?>
 
 hasil:
-![Web capture_1-12-2023_232934_localhost](https://github.com/ChaerulHidayat17/Lab9Web/assets/115516820/49d3e581-ab85-4639-a0a5-5fbeee39d55a)
+![Alt text](<data barang.png>) <br>
 
-![Web capture_1-12-2023_23307_localhost](https://github.com/ChaerulHidayat17/Lab9Web/assets/115516820/d4929584-61fe-49f9-9c00-5e1f10567d91)
+![Alt text](<tambah barang.png>)<br>
 
-![Web capture_1-12-2023_233035_localhost](https://github.com/ChaerulHidayat17/Lab9Web/assets/115516820/9b5d0e3f-1df1-4f9a-a91d-ea826069eb97)
+![Alt text](<ubah barang.png>)<br>
 
 ===========================================================================<br>
 
